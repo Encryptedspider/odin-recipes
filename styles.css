@@ -1,5 +1,27 @@
+* {
+    margin: 0;
+    padding 0;
+    box-sizing: border-box;
+}
+
 h1 {
     font-family: arial;
     background-color: black;
     color: white;
+    text-align: center;
+    padding: 20px;
+    margin-bottom: 20px;
+}
+
+.burger-menu {
+    background-color: orange;
+    padding: 10px;
+    display: inline-block;
+    width: 30%;
+    margin: 0 10px;
+    text-align: center;
+}
+
+ul{
+    margin: 0 auto;
 }
